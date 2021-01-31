@@ -1,0 +1,4 @@
+python-magic
+boto3
+botocore
+libmagic
